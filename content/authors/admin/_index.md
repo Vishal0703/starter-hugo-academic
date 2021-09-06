@@ -4,9 +4,8 @@ role: Game Developer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Development
+  - Artificial Intelligence Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,21 +21,15 @@ social:
     link: https://github.com/Vishal0703
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/vishal703
+    link: https://www.linkedin.com/in/vishal703
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Microsoft India Development Center
+    url: https://www.microsoft.com/en-in/msidc/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Tech + B.Tech Dual Degree in Computer Science and Engineering
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
